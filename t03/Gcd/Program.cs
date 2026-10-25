@@ -4,17 +4,11 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Введите два целых неотрицательных числа (a и b) через пробел: ");
-        string input = Console.ReadLine();
-        string[] parts = input?.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        Console.Write("Введите a: ");
+        int a = int.Parse(Console.ReadLine());
 
-        if (parts == null || parts.Length != 2 || 
-            !int.TryParse(parts[0], out int a) || !int.TryParse(parts[1], out int b) || 
-            a < 0 || b < 0 || (a == 0 && b == 0))
-        {
-            Console.WriteLine("Ошибка: некорректный ввод. Требуется два неотрицательных числа, не оба равные нулю.");
-            return;
-        }
+        Console.Write("Введите b: ");
+        int b = int.Parse(Console.ReadLine());
 
         while (b != 0)
         {
@@ -23,6 +17,6 @@ class Program
             b = r;
         }
 
-        Console.WriteLine($"НОД = {a}");
+        Console.WriteLine("НОД = " + a);
     }
 }
