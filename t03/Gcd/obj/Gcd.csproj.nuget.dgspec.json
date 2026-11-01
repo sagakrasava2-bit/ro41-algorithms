@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TundraEZ\\Desktop\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj": {}
+    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TundraEZ\\Desktop\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj": {
+    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TundraEZ\\Desktop\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj",
+        "projectUniqueName": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj",
         "projectName": "Gcd",
-        "projectPath": "C:\\Users\\TundraEZ\\Desktop\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj",
+        "projectPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t03\\Gcd\\Gcd.csproj",
         "packagesPath": "C:\\Users\\TundraEZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TundraEZ\\Desktop\\ro41-algorithms\\t03\\Gcd\\obj\\",
+        "outputPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t03\\Gcd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TundraEZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
