@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj": {}
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj": {
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj",
+        "projectUniqueName": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj",
         "projectName": "Recursion",
-        "projectPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj",
+        "projectPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\Recursion.csproj",
         "packagesPath": "C:\\Users\\TundraEZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\obj\\",
+        "outputPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t05\\srsp\\Recursion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TundraEZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
