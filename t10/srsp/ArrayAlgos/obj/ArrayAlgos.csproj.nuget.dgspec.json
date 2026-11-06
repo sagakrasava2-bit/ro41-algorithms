@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj": {}
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj": {
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj",
+        "projectUniqueName": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj",
         "projectName": "ArrayAlgos",
-        "projectPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj",
+        "projectPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\ArrayAlgos.csproj",
         "packagesPath": "C:\\Users\\TundraEZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\obj\\",
+        "outputPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t10\\srsp\\ArrayAlgos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TundraEZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
