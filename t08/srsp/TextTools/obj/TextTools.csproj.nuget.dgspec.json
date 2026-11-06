@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj": {}
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj": {
+    "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj",
+        "projectUniqueName": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj",
         "projectName": "TextTools",
-        "projectPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj",
+        "projectPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\TextTools.csproj",
         "packagesPath": "C:\\Users\\TundraEZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\obj\\",
+        "outputPath": "c:\\Users\\TundraEZ\\Desktop\\ДЗ КАБАША\\ro41-algorithms\\t08\\srsp\\TextTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TundraEZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
